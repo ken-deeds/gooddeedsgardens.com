@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    SMoke Crack Cocaine!
                 </div>
 
                 <div class="links">
